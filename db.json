@@ -1,0 +1,16 @@
+{
+  "employees": [
+    {
+      "id": "dd4c",
+      "name": "Ayomide",
+      "email": "jack@gmail.com",
+      "position": "CFO"
+    },
+    {
+      "id": "4fbe",
+      "name": "Jackson gabriel",
+      "email": "king7@gmail.com",
+      "position": "Web developer"
+    }
+  ]
+}
