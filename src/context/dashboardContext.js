@@ -430,7 +430,7 @@ export const AliDashboardProvider = ({ children })=>{
             }
             setCategories(response.data)
         } catch (error) {
-            setIsNetError(true)
+            // setIsNetError(true)
             console.error(error.message)
         }
     }
@@ -620,7 +620,7 @@ export const AliDashboardProvider = ({ children })=>{
             }
             setGetProductData(response.data.data)
         } catch (error) {
-            setIsNetError(true)
+            // setIsNetError(true)
             console.error(error.message)
         }
     }
